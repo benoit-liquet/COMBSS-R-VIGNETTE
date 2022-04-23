@@ -8,7 +8,7 @@ library(mvtnorm)
 source("Function-for-combss-github.R")
 ```
 
-load function useful for combss
+Load function useful for COMBSS
 -------------------------------
 
 ``` r
