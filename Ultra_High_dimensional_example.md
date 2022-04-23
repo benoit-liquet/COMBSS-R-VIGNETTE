@@ -32,7 +32,7 @@ True.set <- beta !=0
 
 In the following the code for generated the design matrix and the
 outcome. To save some time we have saved the X and y object in
-\\texttt{Data\_Ultra\_High.RData
+\\texttt{Data\_Ultra\_High.RData}
 
 ``` r
 p1 <- 2500
