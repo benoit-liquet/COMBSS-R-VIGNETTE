@@ -85,8 +85,8 @@ if(sum(model.combssR$s)>n){mse[j]<- 9999}else{
 }
 ```
 
-Choice of lambda with the MSE from the validation set
------------------------------------------------------
+Choice of lambda based on the MSE from the validation set
+---------------------------------------------------------
 
 ``` r
 lambda.min <- grid.comb[which.min(mse)]
