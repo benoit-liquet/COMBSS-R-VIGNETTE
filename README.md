@@ -1,13 +1,32 @@
 # COMBSS-VIGNETTE
 
-Here we provide a comprehensible detailed vignette to run COMBSS algorithm for best subset selection for a linear regression model.
+Here we provide a first vignette to run COMBSS algorithm for best subset selection for a linear regression model.
 
 We mainly use here R code. In addition, we show how to use the python version of COMBSS from R.
 
-The python version is currenlty faster than the R version for COMBSS and it is recommended to use it for high dimensional context.
-
-We illustrate the inference of the semi-Markov model on two real datasets: Stanford Heart Transplant data and asthma control data.
 
 This vignette reproduces some replications from the simulation study presented in our article :
 
-COMBSS: Best Subset Selection via Continuous Optimization. Sarat Moka, Benoit Liquet, Houying Zhu, and Samuel Muller.
+COMBSS: Best Subset Selection via Continuous Optimization. Sarat Moka, Benoit Liquet, Houying Zhu, and Samuel Muller.'
+
+
+## Getting Started
+
+In this short vignette we used the following R packages
+
+```
+library(cPCG)
+library(fields)
+library(mvtnorm)
+```
+
+
+##  COMBSS in a low dimensional data context
+
+- This analysis is presented [here](/Low_dimensional_example.md)
+ 
+
+## COMBSS in a high dimensional data context
+
+- This analysis is presented [here](/High_dimensional_example.md)
+
