@@ -133,7 +133,7 @@ axis(side=3,at=log(grid.comb[1:length(mse)]),labels=paste(nsel),tick=FALSE,line=
 abline(v=log(lambda.min),lty=3)
 ```
 
-![](Utra_High_dimensional_example_files/figure-markdown_github/unnamed-chunk-19-1.png)
+![](Ultra_High_dimensional_example_files/figure-markdown_github/unnamed-chunk-19-1.png)
 
 Run combss with best lambda
 ---------------------------
