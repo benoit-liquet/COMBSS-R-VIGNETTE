@@ -30,3 +30,6 @@ library(mvtnorm)
 
 - This analysis is presented [here](/High_dimensional_example.md)
 
+## COMBSS in a ultra high dimensional data context
+
+- This analysis is presented [here](/Ultra_High_dimensional_example.md)
