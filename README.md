@@ -10,7 +10,7 @@ This vignette reproduces some replications from the simulation study presented i
 > Moka S, Liquet B, Zhu H, and Muller S (2022). COMBSS: Best Subset Selection via Continuous Optimization. *Submitted to arXiv*, 36 pages.
 
 
-## Getting Started
+## Getting started
 
 In this short vignette we used the following R packages
 
