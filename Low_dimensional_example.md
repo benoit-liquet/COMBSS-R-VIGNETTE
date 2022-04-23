@@ -5,7 +5,6 @@ R package
 library(cPCG)
 library(fields)
 library(mvtnorm)
-source("Function-for-combss-github.R")
 ```
 
 Load function useful for COMBSS
