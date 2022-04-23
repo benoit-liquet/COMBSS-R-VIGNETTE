@@ -7,7 +7,7 @@ We mainly use R code here. In addition, we show how to use the python version of
 
 This vignette reproduces some replications from the simulation study presented in our article :
 
-Moka S, Liquet B, Zhu H, and Muller S (2022). COMBSS: Best Subset Selection via Continuous Optimization. *Submitted to arXiv*, 36 pages.
+> Moka S, Liquet B, Zhu H, and Muller S (2022). COMBSS: Best Subset Selection via Continuous Optimization. *Submitted to arXiv*, 36 pages.
 
 
 ## Getting Started
