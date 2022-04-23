@@ -67,8 +67,8 @@ nlambda <- 50
 grid.comb <- rev(lambda.max*(c.grid^(c(0:(nlambda-1)))))
 ```
 
-Compuation of the MSE on the vlidation set
-------------------------------------------
+Compuation of the MSE on the validation set
+-------------------------------------------
 
 ``` r
 mse <- rep(0,nlambda)
@@ -85,8 +85,8 @@ if(sum(model.combssR$s)>n){mse[j]<- 9999}else{
 }
 ```
 
-Choice of lambda according MSE on validation set
-------------------------------------------------
+Choice of lambda with the MSE from the validation set
+-----------------------------------------------------
 
 ``` r
 lambda.min <- grid.comb[which.min(mse)]
@@ -97,7 +97,7 @@ abline(v=log(lambda.min),lty=3)
 
 ![](Low_dimensional_example_files/figure-markdown_github/unnamed-chunk-87-1.png)
 
-Run combss with best lambda
+Run COMBSS with best lambda
 ---------------------------
 
 ``` r
