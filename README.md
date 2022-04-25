@@ -12,7 +12,7 @@ This vignette reproduces some replications from the simulation study presented i
 
 ## Getting started
 
-In this short vignette we used the following R packages
+In this short vignette we use the following R packages
 
 ```
 library(cPCG)
