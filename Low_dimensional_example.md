@@ -7,8 +7,9 @@ library(fields)
 library(mvtnorm)
 ```
 
-Load functions useful for running COMBSS
+Load functions useful for running COMBSS 
 -------------------------------
+[Sarat: Is this the correct path for users loading the file directly from github?]
 
 ``` r
 source("Function-for-combss-github.R")
