@@ -7,7 +7,7 @@ library(fields)
 library(mvtnorm)
 ```
 
-Load function useful for COMBSS
+Load functions useful for running COMBSS
 -------------------------------
 
 ``` r
@@ -43,7 +43,7 @@ Xtest <- rmvnorm(Ntest,mean=rep(0,p),sigma=matcovX)
 ytest <- Xtest%*%matrix(beta,ncol=1)+rnorm(n,sd=sqrt(sigma.2))
 ```
 
-Parameter for COMBSS
+Parameters for COMBSS
 --------------------
 
 ``` r
