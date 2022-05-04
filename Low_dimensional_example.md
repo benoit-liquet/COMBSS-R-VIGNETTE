@@ -15,7 +15,9 @@ Load functions useful for running COMBSS
 source("Function-for-combss-github.R")
 ```
 
-@Benoit, we need a package for using cov.X function, or will cov function do the same job?
+@Benoit
+- Error with cov.X function, or will cov function do the same job? Maybe a package is missing?
+- Function noise.compute.from.SNR is missing
 
 Generate data from a true model
 -------------------------------
