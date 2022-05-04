@@ -9,7 +9,7 @@ library(mvtnorm)
 
 Load functions useful for running COMBSS 
 -------------------------------
-[Sarat: Is this the correct path for users loading the file directly from github? Or mention that they have to download this file into the working directory.] [Houying: My preference is to ask the end-user to download this function.]
+[Sarat: Is this the correct path for users loading the file directly from github? Or mention that they have to download this file into the working directory.] [Houying: My preference is to ask the end-user to download this function. We can list code here and also include a link to download the function (Function-for-combss-github.R) directly. ]
 
 ``` r
 source("Function-for-combss-github.R")
