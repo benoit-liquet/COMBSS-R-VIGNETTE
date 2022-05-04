@@ -16,7 +16,7 @@ source("Function-for-combss-github.R")
 ```
 
 @Benoit
-- Error with cov.X function, or will cov function do the same job? Maybe a package is missing?
+- Error message with cov.X function, or will cov function do the same job? Maybe a package is missing?
 - Function noise.compute.from.SNR is missing
 
 Generate data from a true model
