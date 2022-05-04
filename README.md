@@ -19,7 +19,7 @@ library(cPCG)
 library(fields)
 library(mvtnorm)
 ```
-
+[Houying: There are a few functions need to provide, including noise.compute.from.SNR, ADAM.COMBSS, predict.COMBSS]
 
 ##  COMBSS in a low dimensional data context
 
