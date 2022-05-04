@@ -19,20 +19,20 @@ library(fields)
 library(mvtnorm)
 ```
 
-##  COMBSS in a low dimensional data context
+##  COMBSS in a low-dimensional setup
 
 - We consider in this simulated example, a data set of n=100 samples and p=20 predictors, where 10 are active predictors.
 
 - This analysis is presented [here](/Low_dimensional_example.md)
  
 
-## COMBSS in a high dimensional data context
+## COMBSS in a high-dimensional setup
 
 - We consider in this simulated example, a data set of n=100 samples and p=1000 predictors, where 10 are active predictors.
 
 - This analysis is presented [here](/High_dimensional_example.md)
 
-## COMBSS in an ultra high dimensional data context
+## COMBSS in an ultra high-dimensional setup
 
 - We consider in this simulated example, a data set of n=100 samples and p=10,000 predictors, where only 3 are active predictors.
 
