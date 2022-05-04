@@ -8,16 +8,11 @@ library(mvtnorm)
 ```
 
 Load functions useful for running COMBSS 
--------------------------------
-[Sarat: Is this the correct path for users loading the file directly from github? Or mention that they have to download this file into the working directory.]  
+-------------------------------  
 
 ``` r
 source("Function-for-combss-github.R")
 ```
-
-From Houying to Benoit
-- Error messages with cov.X function, will cov function do the same job? Maybe a package is missing?
-- There are a few functions are missing such as noise.compute.from.SNR, ADAM.COMBSS, predict.COMBSS
 
 Generate data from a true model
 -------------------------------
