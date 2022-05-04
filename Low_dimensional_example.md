@@ -9,7 +9,7 @@ library(mvtnorm)
 
 Load functions useful for running COMBSS 
 -------------------------------
-[Sarat: Is this the correct path for users loading the file directly from github? Or mention that they have to download this file into the working directory.] [Houying: When git clone or download the as a zip file, the function is in the folder. ]
+[Sarat: Is this the correct path for users loading the file directly from github? Or mention that they have to download this file into the working directory.] [Houying: When git clone or download the as the COMBSS-VIGNETTE zip file, the function is in the folder. But it may be better to have a link to download this function directly from this page.] 
 
 ``` r
 source("Function-for-combss-github.R")
