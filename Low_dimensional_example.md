@@ -15,6 +15,8 @@ Load functions useful for running COMBSS
 source("Function-for-combss-github.R")
 ```
 
+@Benoit, we need a package for using cov.X function.
+
 Generate data from a true model
 -------------------------------
 
