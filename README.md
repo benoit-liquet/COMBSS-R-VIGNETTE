@@ -21,19 +21,19 @@ library(mvtnorm)
 
 ##  COMBSS in a low-dimensional setup
 
-- We consider in this simulated example, a data set of n=100 samples and p=20 predictors, where 10 are active predictors.
+In this example, we consider a dataset with n = 100 samples and p = 20 predictors, of which 10 are active predictors.
 
-- This analysis is presented [here](/Low_dimensional_example.md)
+This analysis is presented [here](/Low_dimensional_example.md)
  
 
 ## COMBSS in a high-dimensional setup
 
-- We consider in this simulated example, a data set of n=100 samples and p=1000 predictors, where 10 are active predictors.
+In this example, we consider a dataset with n = 100 samples and p = 1000 predictors, of which 10 are active predictors.
 
-- This analysis is presented [here](/High_dimensional_example.md)
+This analysis is presented [here](/High_dimensional_example.md)
 
 ## COMBSS in an ultra high-dimensional setup
 
-- We consider in this simulated example, a data set of n=100 samples and p=10,000 predictors, where only 3 are active predictors.
+In this example, we consider a dataset with n = 100 samples and p = 10,000 predictors, of which 3 are active predictors.
 
-- This analysis is presented [here](/Ultra_High_dimensional_example.md)
+This analysis is presented [here](/Ultra_High_dimensional_example.md)
