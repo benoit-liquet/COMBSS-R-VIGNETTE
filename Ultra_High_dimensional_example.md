@@ -135,7 +135,7 @@ abline(v=log(lambda.min),lty=3)
 
 ![](Ultra_High_dimensional_example_files/figure-markdown_github/unnamed-chunk-19-1.png)
 
-Run combss with best lambda
+Run COMBSS with the best lambda
 ---------------------------
 
 ``` r
