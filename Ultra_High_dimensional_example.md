@@ -8,7 +8,7 @@ library(mvtnorm)
 library(Matrix)
 ```
 
-load function useful for combss
+Load function useful for COMBSS
 -------------------------------
 
 ``` r
