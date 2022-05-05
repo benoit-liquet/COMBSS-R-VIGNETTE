@@ -103,7 +103,7 @@ nlambda <- 50
 grid.comb <- rev(lambda.max*(c.grid^(c(0:(nlambda-1)))))
 ```
 
-Compuation of the MSE on the vlidation set
+Computation of the MSE on the vlidation set
 ------------------------------------------
 
 ``` r
