@@ -30,7 +30,7 @@ beta[index.true] <- 1
 True.set <- beta !=0
 ```
 
-In the following the code for generated the design matrix and the
+In the following the code for generating the design matrix and the
 outcome. To save some time we have saved the X and y object in
 **Data\_Ultra\_High.RData**
 
