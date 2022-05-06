@@ -4,7 +4,7 @@ Here we provide a first vignette to run COMBSS, a novel algorithm for best subse
 
 This vignette reproduces some replications from the simulation study presented in our article:
 
-> Moka S, Liquet B, Zhu H, and Muller S (2022). COMBSS: Best Subset Selection via Continuous Optimization. *arXiv*, \url{https://doi.org/10.48550/arxiv.2205.02617}.
+> Moka S, Liquet B, Zhu H, and Muller S (2022). COMBSS: Best Subset Selection via Continuous Optimization. *arXiv*, \href{https://doi.org/10.48550/arxiv.2205.02617}.
 
 
 ## Getting started
