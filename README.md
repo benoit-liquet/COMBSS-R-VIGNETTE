@@ -6,20 +6,15 @@ This vignette reproduces some replications from the simulation study presented i
 
 > Moka S, Liquet B, Zhu H, and Muller S (2022). COMBSS: Best Subset Selection via Continuous Optimization. *arXiv*, https://doi.org/10.48550/arxiv.2205.02617.
 
-# 🎉 COMBSS Now Available on PyPI!**  
+# NEWS: 🎉 COMBSS Now Available on PyPI!**  
 
 We're excited to announce that **COMBSS** (Continuous Optimization for Best Subset Selection) is now available as a **PyPI package**!  
-
-### **Install with pip**  
-```bash
-pip install combss
-```
 
 🔗 **PyPI Link**: [https://pypi.org/project/combss](https://pypi.org/project/combss)  
 📚 **GitHub**: [GitHub README](https://github.com/saratmoka/combss)  
 
 
-## Getting started
+## Getting started using R 
 
 In this short vignette we use the following R packages
 
