@@ -1,10 +1,22 @@
-# COMBSS-VIGNETTE
+# R COMBSS-VIGNETTE
 
 Here we provide a first vignette to run COMBSS, a novel algorithm for best subset selection for a linear regression model, using R. For a vignette that runs COMBSS in Python, we refer to https://github.com/saratmoka/COMBSS-Python-VIGNETTE.
 
 This vignette reproduces some replications from the simulation study presented in our article:
 
 > Moka S, Liquet B, Zhu H, and Muller S (2022). COMBSS: Best Subset Selection via Continuous Optimization. *arXiv*, https://doi.org/10.48550/arxiv.2205.02617.
+
+# 🎉 COMBSS Now Available on PyPI!**  
+
+We're excited to announce that **COMBSS** (Continuous Optimization for Best Subset Selection) is now available as a **PyPI package**!  
+
+### **Install with pip**  
+```bash
+pip install combss
+```
+
+🔗 **PyPI Link**: [https://pypi.org/project/combss](https://pypi.org/project/combss)  
+📚 **GitHub**: [GitHub README](https://github.com/saratmoka/combss)  
 
 
 ## Getting started
